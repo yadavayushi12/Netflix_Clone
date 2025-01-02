@@ -1,0 +1,214 @@
+body {
+    /* background-color: black; */
+    background: url(abc.png);
+}
+
+#main {
+    background-image: url(/bg.jpg);
+
+    background-repeat: no-repeat;
+    /* background-size: 1100px 450px; */
+    background-size: 1500px 650px;
+}
+
+#aa {
+    color: rgb(199, 4, 4);
+    padding-left: 90px;
+    padding-top: 5px;
+    font-size: 33px;
+
+}
+
+#sel {
+    /* background-color: rgb(234, 214, 214); */
+    background: transparent;
+    color: white;
+    border: 2px solid white;
+
+}
+
+/* option{
+    font-size: small;
+} */
+#but {
+    background-color: red;
+    color: white;
+}
+
+#hed {
+    color: white;
+}
+
+.hed3 {
+    color: rgb(255, 255, 255);
+}
+
+#mail {
+    background: transparent;
+
+    border: 2px solid red;
+    color: white;
+    width: 270px;
+    height: 30px;
+}
+
+#buta {
+    background-color: red;
+    color: white;
+    /* padding-top: 4px;
+    margin-bottom: 8px; */
+    width: 120px;
+    height: 40px;
+    padding-top: 10px;
+    font-size: 16px;
+    font-weight: bolder;
+
+}
+
+#a1 {
+    width: 40%;
+    color: white;
+    float: left;
+    padding-left: 90px;
+    padding-right: 8px;
+}
+
+#a2 {
+    width: 40%;
+    float: right;
+    padding-right: 95px;
+
+}
+
+.im {
+    height: 270px;
+    width: 400px;
+}
+
+.f1 {
+    font-weight: bolder;
+    font-size: 36px;
+    color: white;
+}
+
+.para {
+    font-size: 18px;
+}
+
+#b1 {
+    float: left;
+    width: 40%;
+    padding-left: 100px;
+
+}
+
+#b2 {
+    float: right;
+    width: 40%;
+    color: white;
+    padding-right: 90px;
+}
+
+#im22 {
+    height: 300px;
+    width: 400px;
+}
+
+#im33 {
+    height: 270px;
+    width: 350px;
+}
+
+#c1 {
+    float: left;
+    padding-left: 90px;
+    width: 40%;
+    padding-right: 15px;
+    color: white;
+}
+
+#c2 {
+    float: right;
+    width: 40%;
+    padding-right: 90px;
+}
+
+#im44 {
+    height: 290px;
+    width: 380px;
+}
+
+#d1 {
+    width: 40%;
+    float: left;
+    padding-left: 100px;
+}
+
+#d2 {
+    width: 40%;
+    float: right;
+    color: white;
+    padding-right: 90px;
+}
+
+details {
+    color: white;
+}
+
+#ques {
+    padding: 30ppx;
+}
+
+.det {
+    margin-left: 115px;
+    background-color: rgb(36, 36, 36);
+    padding: 18px;
+    margin-right: 110px;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+
+.sum {
+    font-size: 18px;
+
+}
+
+#lat {
+    color: white;
+}
+
+.ppl {
+    font-size: 6px;
+}
+
+#kht {
+    margin-left: 110px;
+    margin-right: 110px;
+    color: white;
+}
+
+.apurv {
+    font-size: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#aa :hover {
+    cursor: pointer;
+    color: rgb(255, 186, 186);
+
+}
+
+.apurv :hover {
+    cursor: pointer;
+    color: rgb(205, 194, 194);
+}
+
+#buta :hover {
+    cursor: pointer;
+    color: rgb(187, 178, 178)
+        /* font-size: .8rem; */
+}
+.det :hover{
+    cursor: pointer;
+    color: grey;
+}

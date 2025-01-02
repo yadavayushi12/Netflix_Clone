@@ -1,0 +1,51 @@
+body {
+    background-image: url(/bg.jpg);
+
+    background-repeat: no-repeat;
+    /* background-size: 1100px 450px; */
+    background-size: 1500px 650px;
+}
+
+#main {
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-top: 70px;
+    margin-bottom: 40px;
+    /* background-color: rgb(38, 29, 29); */
+    color: white;
+    border: 2px solid rgb(64, 81, 87);
+    background: transparent;
+    padding: 20px;
+}
+
+.xtxt {
+    width: 250px;
+    height: 30px;
+    background-color: rgb(30, 24, 9);
+    color: white;
+}
+
+button {
+    width: 250px;
+    height: 30px;
+    background-color: rgb(199, 150, 58);
+    color: white;
+}
+
+pre {
+    font-size: 12px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#last {
+    font-size: 10px;
+    /* text-decoration: none; */
+}
+img{
+    padding-left: 40px;
+    padding-top: 10px;
+}
+/* a{
+    text-decoration: none;
+    color: white;
+} */
